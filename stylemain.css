@@ -1,0 +1,29 @@
+body{
+	background-color: #95d5d6;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: steelblue;
+}
+form{
+	text-align: center;
+	margin: 20px auto;
+	width: 320px;
+	color: black;
+
+}
+input {
+	padding: 10px;
+	font-size: inherit ; 
+}
+
+input[type="submit"]{
+
+	margin-bottom: 25px ;
+	width: 50%;
+	border: 2px solid steelblue;
+	background: steelblue;
+	color: black;
+}
